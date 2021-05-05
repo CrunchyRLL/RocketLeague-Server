@@ -3,7 +3,7 @@
 Open source Rocket League Private Server for the game
 
 
-![ScreenShot](https://cdn.discordapp.com/attachments/830737044861878302/830738574088601620/unknown-1.png) 
+![ScreenShot](https://wallpaperaccess.com/full/2403409.jpg) 
 
 
 ## What's working ?
@@ -33,6 +33,7 @@ Open source Rocket League Private Server for the game
 
 
 #### Need help? Join [our Discord support server](https://discord.gg/cThC4GUSB7)
+#### WE ARE LOOKING FOR DEVS! Join [our Discord](https://discord.gg/cThC4GUSB7)
 
 
 
