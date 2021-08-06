@@ -12,7 +12,7 @@ Open source Rocket League Private Server for the game
 
 ## To do
 
-- A LOT!
+- Show XP Bar and or Level
 
 
 
