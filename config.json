@@ -1,0 +1,18 @@
+{
+  "MongoConnectionURL": "",
+
+  "Credits": 99999,
+  "TourneyCredits": 99999,
+  "MMR": 10000,
+  "Item": 7425,
+  "Titles": 90,
+  "Region": "DE",
+  "ThemeID": 0,
+  "ContentCreatorCodes": ["Raphael"],
+  "BannedIPs": [],
+  "Maintenance": false,
+  "SecondsTillMaintenanceOver": 3600,
+  "Patch": false,
+  "PatchURL": "http://192.168.0.103:8080/",
+  "UpdateURL": ""
+}
