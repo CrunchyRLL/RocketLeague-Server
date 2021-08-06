@@ -33,8 +33,8 @@ Open source Rocket League Private Server for the game
 
 
 
-#### Need help? Join [our Discord support server](https://discord.gg/cThC4GUSB7)
-#### WE ARE LOOKING FOR DEVS! Join [our Discord](https://discord.gg/cThC4GUSB7)
+#### Need help? Join [our Discord support server](https://discord.gg/syznTqvZT6)
+#### WE ARE LOOKING FOR DEVS! Join [our Discord](https://discord.gg/syznTqvZT6)
 
 
 
@@ -43,8 +43,7 @@ Open source Rocket League Private Server for the game
 
 👤 **Raphael** (main developer)
 
-* Github: [@DarkPsyonix](https://github.com/radicalraphael)
-* Discord: DarkPsyonix#7823
+* Discord: Raphaeł#9999
 
 Special thanks to:
 - [Günther](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
